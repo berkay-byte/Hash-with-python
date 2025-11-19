@@ -15,4 +15,5 @@ A lightweight, Python-based cybersecurity tool designed to calculate **MD5** and
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/REPO-NAME.git](https://github.com/YOUR-USERNAME/REPO-NAME.git)
+
+   git clone https://github.com/berkay-byte/Hash-with-python.git
