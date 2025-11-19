@@ -20,7 +20,7 @@ A lightweight, Python-based cybersecurity tool designed to calculate **MD5** and
 2. **Run the tool:**
    ```bash
    python hash_hesaplayici.py
-   --------------------------------------------------
+   
  BASİT HASH HESAPLAYICI - GITHUB PROJEM
 
 Hashlenecek metni girin: hello
@@ -32,6 +32,7 @@ Hashlenecek metni girin: hello
 ## 👨‍💻 Author
 **[berkay-byte]**
 - [My LinkedIn Profile](https://www.linkedin.com/in/berkay-pehlivan-8a96a7290/)
+
 
 
 
